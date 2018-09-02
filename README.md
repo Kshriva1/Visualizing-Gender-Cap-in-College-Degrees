@@ -4,6 +4,6 @@
 
 Randal Olson, a data scientist at University of Pennsylvania, has cleaned the data set and made it available on his personal website.The dataset is available here.
 
-Randal compiled this data set to explore the gender gap in STEM fields, which stands for science, technology, engineering, and mathematics. This gap is reported on often in the[news](https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=gender+gap+stem&oq=gender+gap+stem&gs_l=news) and [not everyone agrees](https://www.pbs.org/newshour/economy/making-sense/truth-women-stem-careers) that there is a gap.
+Randal compiled this data set to explore the gender gap in STEM fields, which stands for science, technology, engineering, and mathematics. This gap is reported on often in the [news](https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=gender+gap+stem&oq=gender+gap+stem&gs_l=news) and [not everyone agrees](https://www.pbs.org/newshour/economy/making-sense/truth-women-stem-careers) that there is a gap.
 
 In this project, I have explored how we can communicate the nuanced narrative of gender gap using effective data visualization.
